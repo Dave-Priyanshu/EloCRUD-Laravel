@@ -6,7 +6,7 @@
 
 @section('content')
     <div class="container">
-        <h1>Add New User</h1>
+     
 
         <div class="card">
             <div class="card-header">

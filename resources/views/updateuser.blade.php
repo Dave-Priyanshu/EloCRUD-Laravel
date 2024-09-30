@@ -6,11 +6,11 @@
 
 @section('content')
     <div class="container">
-        <h1>Update User Details</h1>
+        
 
         <div class="card">
             <div class="card-header">
-                <h5>User Update Form</h5>
+                <h5>Update User Form</h5>
             </div>
             <div class="card-body">
                 <form action="{{route('user.update',$users->id)}}" method="POST">

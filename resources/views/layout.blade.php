@@ -40,26 +40,37 @@
             text-decoration: none;
         }
         .add-user-btn {
-            margin: 15px 15px;
+            margin: 9px 15px;
             float: right;
         }
         .bg-warning-subtle {
             background-color: #fff3cd; /* Subtle yellow background */
             padding: 10px;
-            border-radius: 5px;
+            border-radius: 9px;
             margin-bottom: 20px;
+        }
+        .bg-warning-subtle h4 {
+            font-family: 'Lexend';
+            text-align: center; 
+            font-weight: bold;
+            font-size: 20px;
+            
         }
         .card {
             margin-bottom: 20px;
             border: 1px solid #007bff;
-            border-radius: 5px;
+            border-radius: 8px;
         }
         .card-header {
             background-color: #007bff;
             color: white;
-            padding: 15px;
+            padding: 7px;
             border-radius: 5px 5px 0 0;
             font-weight: 700; /* Bold for card header */
+        }
+
+        .card-header h5{
+            font-size: 20px;
         }
         .card-body {
             padding: 15px;
