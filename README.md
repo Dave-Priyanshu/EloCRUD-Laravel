@@ -5,7 +5,7 @@
 
 # EloCRUD-Laravel: A Simple Laravel CRUD Application with Eloquent ORM
 
-![Laravel](https://img.shields.io/badge/Laravel-9.x-red.svg) ![PHP](https://img.shields.io/badge/PHP-8.x-blue.svg) ![Eloquent](https://img.shields.io/badge/Eloquent-ORM-orange.svg)
+![Laravel](https://img.shields.io/badge/Laravel-11.x-red.svg) ![PHP](https://img.shields.io/badge/PHP-8.3-blue.svg) ![Eloquent](https://img.shields.io/badge/Eloquent-ORM-orange.svg)
 
 ## 🚀 Introduction
 **EloCRUD-Laravel** is a basic CRUD application built using Laravel's Eloquent ORM. It demonstrates how to handle CRUD (Create, Read, Update, Delete) operations using resource controllers and seed fake data with the help of Faker. This project includes a basic layout extended across multiple views for a clean and structured UI.
