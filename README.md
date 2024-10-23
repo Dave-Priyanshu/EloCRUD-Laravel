@@ -1,4 +1,4 @@
-### **Project Name Suggestion:**
+### **Project Name:**
 **EloCRUD-Laravel**
 
 ---
